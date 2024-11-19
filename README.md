@@ -6,9 +6,11 @@
 
 - Interesting websites
   - [Chrome music lab](https://musiclab.chromeexperiments.com/)
+  - [secret-lives-of-data](https://thesecretlivesofdata.com/)
+  - [visual-algo](https://visualgo.net/en)
 
 - Interesting tools/repositories
-  - Tools I use regularly
+  - tools I use regularly
     - [zoxide](https://github.com/ajeetdsouza/zoxide)
     - [glow](https://github.com/charmbracelet/glow)
     - [Helix editor](https://helix-editor.com/)
@@ -25,10 +27,17 @@
     - [makefiletutorial](https://github.com/theicfire/makefiletutorial)
     - [command line](https://github.com/jlevy/the-art-of-command-line)
     - [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
-  - Lectures
+    - [create-a-compiler](https://craftinginterpreters.com/)
+  - Lectures/Playlists
     - [Computer architecture](https://www.youtube.com/playlist?list=PLhMnuBfGeCDM8pXLpqib90mDFJI-e1lpk)
     - [Distributed systems](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB)
+    - [Computer networking](https://www.youtube.com/playlist?list=PLm556dMNleHc1MWN5BX9B2XkwkNE2Djiu)
     - [Computer science history](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+    - [missing-semester](https://missing.csail.mit.edu/)
+    - [compiler](https://www.youtube.com/playlist?list=PLRAdsfhKI4OWNOSfS7EUu5GRAVmze1t2y)
+  - Blogs
+    - [Robert Heaton](https://robertheaton.com/)
+
 
 - Other subject favorites
   - [Human brain](https://www.youtube.com/playlist?list=PLUl4u3cNGP60IKRN_pFptIBxeiMc0MCJP)
